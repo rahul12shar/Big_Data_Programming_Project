@@ -1,0 +1,11 @@
+JourneyPatternSection,FromStop,FromStopName,ToStop,ToStopName,FromSequence,ToSequence,RuntimeSeconds,RuntimeMinutes
+JPS_2,490007424N,Great West Road Boston Manor Road,490012276E,South Ealing Road,1,2,420,7.0
+JPS_2,490012276E,South Ealing Road,490000208A,South Ealing,2,3,60,1.0
+JPS_2,490000208A,South Ealing,490014254N,Warwick Rd Uni. Of West London,3,4,120,2.0
+JPS_2,490014254N,Warwick Rd Uni. Of West London,490004143N,Bond Street,4,5,120,2.0
+JPS_2,490004143N,Bond Street,490007913D,Haven Green Ealing Broadway,5,6,240,4.0
+JPS_3,490007913D,Haven Green Ealing Broadway,490006291L,Ealing Broadway Centre,1,2,180,3.0
+JPS_3,490006291L,Ealing Broadway Centre,490014254S,Warwick Rd Uni. Of West London,2,3,120,2.0
+JPS_3,490014254S,Warwick Rd Uni. Of West London,490000208B,South Ealing,3,4,120,2.0
+JPS_3,490000208B,South Ealing,490012276E,South Ealing Road,4,5,60,1.0
+JPS_3,490012276E,South Ealing Road,490007424N,Great West Road Boston Manor Road,5,6,480,8.0
